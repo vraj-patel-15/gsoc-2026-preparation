@@ -1,8 +1,4 @@
 # gsoc-2026-preparation
-📘 My complete notes for GSoC 2026 preparation
-
-# 🚀 GSoC 2026 Preparation Notes
-
 Welcome! These are my personal notes and resources while preparing for **Google Summer of Code 2026**.
 
 ## 📚 Subjects Covered
@@ -18,3 +14,10 @@ You can read them online or download them from this repo.
 
 ## 💬 Connect
 If you find this useful, star ⭐ the repo or share it with your friends!
+
+# 📘 Git & GitHub Starting Guide
+
+This repository contains a beginner-friendly PDF guide to understand Git and GitHub commands.
+
+> ⚠️ If you see “Unable to render code block”, that’s normal — GitHub can’t preview PDFs.
+> Click the **Download** button (top-right) or [view the PDF here](./Git%20%26%20GitHub%20starting.pdf).
